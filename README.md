@@ -1,2 +1,1 @@
-# face-detection
-face detection using Python , Keras  , OpenCV and MobileNet which detect face through real-time
+Face Mask Detection using Python, Keras, OpenCV and MobileNet which detect masks through real-time video streams.
